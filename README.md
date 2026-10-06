@@ -1,5 +1,15 @@
 # Used Car Price Prediction 
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![scikit-learn](https://img.shields.io/badge/scikit-learn%20Library-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458.svg)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Github](https://img.shields.io/badge/API-GitHub-black.svg)
+![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-red.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+
 A machine learning project that predicts the price of used cars
 using **Scikit-learn**. The project covers the full ML workflow:
 data loading, feature engineering, model comparison, hyperparameter
